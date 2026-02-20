@@ -1,5 +1,5 @@
 <h1>Amazon-clone</h1>
 <br>
-Using html and css
+Amazon hero section UI clone using HTML and CSS.
 <br>
 Author:Nidhi Nandani
